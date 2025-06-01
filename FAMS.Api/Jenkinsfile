@@ -1,0 +1,30 @@
+pipeline {
+
+    agent any
+    
+    stages {
+
+        stage('Packaging/Pushing image FE') {
+
+            steps {
+                echo 'aaaa'
+                }
+            }
+        }
+
+        stage('Deploy FE') {
+            steps {
+                echo 'Deploying and cleaning'
+                
+            }
+        }
+        
+ 
+    }
+    post {
+        // Clean after build
+        always {
+            cleanWs()
+        }
+    }
+}
