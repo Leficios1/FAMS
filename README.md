@@ -1,5 +1,3 @@
-Bạn đang yêu cầu viết README mô tả cho dự án FAMS (Facility Asset Management System), một hệ thống quản lý đào tạo toàn diện được xây dựng bằng ASP.NET Core.
-
 # FAMS - Facility Asset Management System
 
 FAMS là một nền tảng quản lý đào tạo toàn diện được thiết kế để tối ưu hóa việc tạo, triển khai và quản trị các chương trình giáo dục. Hệ thống cung cấp quản lý vòng đời đào tạo từ đầu đến cuối, từ phát triển giáo trình và lập kế hoạch chương trình đến lập lịch và triển khai lớp học. [1](#0-0) 
